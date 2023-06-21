@@ -1,0 +1,326 @@
+.carousel-item {
+    height: 30em;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .carousel-caption{
+    font-size: xx-large;
+  }
+  .restaurantname{
+    margin-bottom: 0.5em;
+    font-size: 2.5em;
+    font-weight: bolder;
+    font-style:italic;
+  }
+  .subheading{
+    margin-top: 0;
+    font-size: 1em;
+  }
+  nav{
+    height:6.5em;
+  }
+  input{
+    margin-left:2em;
+  }
+  #homebutton{
+    margin-right: 2em;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    background-color: rgb(85, 134, 85);
+  }
+  #homebutton:hover{
+    border-radius: 2em;
+  }
+  #bgimage{
+    width: 100%;
+  }
+  
+
+  /* Social media handle css begins */
+  
+
+  .social-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f2f2f2;
+    box-shadow: 0px 0px 15px #00000027;
+    padding: 15px 10px;
+    border-radius: 5em;
+    margin-top: 1.5em;
+    width: 15em;
+  }
+  
+  .social-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2em;
+    height:2em;
+    border-radius: 50%;
+    /* margin: 0 10px; */
+
+    /* margin-left: 10px; */
+    margin-right: 10px;
+    background-color: #fff;
+    box-shadow: 0px 0px 4px #00000027;
+    transition: 0.3s;
+  }
+  
+  .social-button:hover {
+    background-color: #f2f2f2;
+    box-shadow: 0px 0px 6px 3px #00000027;
+  }
+  
+  .social-buttons svg {
+    transition: 0.3s;
+    height: 20px;
+  }
+  
+  .facebook {
+    background-color: #3b5998;
+  }
+  
+  .facebook svg {
+    fill: #f2f2f2;
+  }
+  
+  .facebook:hover svg {
+    fill: #3b5998;
+  }
+  
+  .github {
+    background-color: #333;
+  }
+  
+  .github svg {
+    width: 25px;
+    height: 25px;
+    fill: #f2f2f2;
+  }
+  
+  .github:hover svg {
+    fill: #333;
+  }
+  
+  .linkedin {
+    background-color: #0077b5;
+  }
+  
+  .linkedin svg {
+    fill: #f2f2f2;
+  }
+  
+  .linkedin:hover svg {
+    fill: #0077b5;
+  }
+  
+  .instagram {
+    background-color: #c13584;
+  }
+  
+  .instagram svg {
+    fill: #f2f2f2;
+  }
+  
+  .instagram:hover svg {
+    fill: #c13584;
+  }
+
+
+  /* Social media handle css ends */
+  
+
+  /* footer css code begins */
+
+  #footer{
+    width:100%;
+  }
+  .footer-bg{
+    background-color: #0D1824;
+    width: 100%;
+  }
+
+  #email{
+    margin:0;
+  }
+
+  #headingg{
+    font-size: larger;
+    color: white;
+  }
+  #textt{
+    color: white;
+  }
+
+  h5{
+    color: white;
+    text-decoration: underline #41417D 0.17em;
+    margin-bottom: 1em;
+    margin-top: 2em;
+  }
+  
+.id{
+    font-weight: bold;
+}
+
+.img1{
+    width: 10em;
+}
+span{
+    color: lime;
+}
+.aboutus{
+    color: rgb(212, 202, 202);
+    font-weight: lighter;
+}
+#svg{
+    color: whitesmoke;
+}
+.copyright{
+    color: white;
+    margin-left: 20em;
+}
+#list{
+    margin-right: 1.25em;
+}
+
+#footer{
+    margin-left: 10em;
+}
+#listt{
+    margin-left: 1em;
+}
+.stars{
+    color: gold;
+}
+
+
+/* Login form css begins */
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 0.4em;
+    background-color: #171717;
+    border-radius: 20px;
+    width: 30em;
+    margin-top: 5em;
+    margin-bottom: 5em;
+  }
+  
+  #heading {
+    text-align: center;
+    margin: 2em;
+    color: rgb(0, 255, 200);
+    font-size: 1.2em;
+  }
+  
+  .field {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5em;
+    border-radius: 25px;
+    padding: 0.6em;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: #171717;
+    box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+  }
+  
+  .input-icon {
+    height: 1.3em;
+    width: 1.3em;
+    fill: rgb(0, 255, 200);
+  }
+  
+  .input-field {
+    background: none;
+    border: none;
+    outline: none;
+    width: 100%;
+    color: rgb(0, 255, 200);
+  }
+  
+  .form .btn {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 2.5em;
+  }
+  
+  .button1 {
+    padding: 0.5em;
+    padding-left: 1.1em;
+    padding-right: 1.1em;
+    border-radius: 5px;
+    margin-right: 0.5em;
+    border: none;
+    outline: none;
+    transition: .4s ease-in-out;
+    background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+    color: rgb(0, 0, 0);
+  }
+  
+  .button1:hover {
+    background-image: linear-gradient(163deg, #00642f 0%, #13034b 100%);
+    color: rgb(0, 255, 200);
+  }
+  
+  .button2 {
+    padding: 0.5em;
+    padding-left: 2.3em;
+    padding-right: 2.3em;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    transition: .4s ease-in-out;
+    background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+    color: rgb(0, 0, 0);
+  }
+  
+  .button2:hover {
+    background-image: linear-gradient(163deg, #00642f 0%, #13034b 100%);
+    color: rgb(0, 255, 200);
+  }
+  
+  .button3 {
+    margin-bottom: 3em;
+    padding: 0.5em;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    transition: .4s ease-in-out;
+    background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+    color: rgb(0, 0, 0);
+  }
+  
+  .button3:hover {
+    background-image: linear-gradient(163deg, #a00000fa 0%, #d10050 100%);
+  }
+  
+  .card {
+    transition: all .3s;
+    align-items: center;
+  }
+  
+  .card2 {
+    border-radius: 0;
+    transition: all .2s;
+  }
+  
+  .card2:hover {
+    transform: scale(0.98);
+    border-radius: 20px;
+  }
+  

@@ -1,0 +1,489 @@
+.title{
+    margin-top: 1.25em;
+}
+.firstnav{
+    width:100%;
+}.me-2{
+    margin-top: 0;
+}
+.navbar-brand{
+    display: flex;
+}
+h1{
+    color: black;
+    font-size: 2.5em;
+    margin-top: 0.2em;
+}
+
+
+.cardcover{
+    background-color: #171717;
+    display: flex;
+    flex-wrap: wrap;
+    height:60em;
+    justify-content: center;
+}
+.card1{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-top:2em;
+}
+.card2{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-top:2em;
+}
+.card3{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-top:2em;
+}
+.card4{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-top:2em;
+}
+.card5{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-top:2em;
+}
+.card6{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-top:2em;
+}
+.card7{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-top:2em;
+}
+.card8{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-top:2em;
+}
+.card9{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-top:2em;
+}
+.card10{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-top:2em;
+}
+.card11{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-top:2em;
+}
+.card12{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-top:2em;
+}
+.card{
+    background-color: #171717;
+    margin-left: 5em;
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    width: 100em;
+}
+.card1,.card2,.card3,.card4,.card5,.card6,.card7,.card8,.card9,.card10,.card11,.card12:hover{
+    cursor: pointer;
+}
+.card1:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+    background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card2:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+    background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card3:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card4:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card5:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card6:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card7:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card8:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card9:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card10:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card11:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card12:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+p{
+    margin-left: 0.5em;
+    margin-top: 4em;
+}
+.case1{
+    margin-top: 10em;
+}
+small{
+    color:lime;
+    background-color:seashell;
+    font-weight: bolder;
+}
+.cssbuttons-io-button {
+    display: flex;
+    align-items: center;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 0.7em 1.4em 0.7em 1.1em;
+    color: white;
+    background: #ad5389;
+    background: linear-gradient(0deg, rgba(20,167,62,1) 0%, rgba(102,247,113,1) 100%);
+    border: none;
+    letter-spacing: 0.05em;
+    border-radius: 20em;
+  }
+  span{
+    margin-left: 1em;
+  }
+  
+  .cssbuttons-io-button svg {
+    margin-right: 6px;
+  }
+  
+  .cssbuttons-io-button:hover {
+    box-shadow: 0 0.5em 1.5em -0.5em #e90808;
+  }
+  
+  .cssbuttons-io-button:active {
+    box-shadow: 0 0.3em 1em -0.5em #14a73e98;
+  }
+  button{
+    margin-top: 1em;
+    margin-left: 0.7em;
+  }
+  h4{
+    font-size: large;
+    color: #171717;
+    text-decoration: none;
+  }
+
+
+
+
+  .card {
+    position: relative;
+    width: 11.875em;
+    height: 16.5em;
+    box-shadow: 0px 1px 13px rgba(0,0,0,0.1);
+    cursor: pointer;
+    transition: all 120ms;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    padding: 0.5em;
+    padding-bottom: 3.4em;
+    margin-top: 5em;
+  }
+  
+  .card::after {
+    content: "Add to Cart";
+    padding-top: 1.25em;
+    padding-left: 1.25em;
+    position:relative;
+    left: 0;
+    bottom: -60px;
+    background: #00AC7C;
+    color: #fff;
+    height: 3em;
+    width: 100%;
+    transition: all 80ms;
+    font-weight: 600;
+    text-transform: uppercase;
+    opacity: 0;
+  }
+  
+  .card .title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    position: absolute;
+    left: 0.625em;
+    bottom: 1.875em;
+    font-weight: 400;
+    color: #000;
+  }
+  
+  .card .price {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 0.9em;
+    position: absolute;
+    left: 0.625em;
+    bottom: 0.625em;
+    color: #000;
+  }
+  
+  .card:hover::after {
+    bottom: 0;
+    opacity: 1;
+  }
+  
+  .card:active {
+    transform: scale(0.98);
+  }
+  
+  .card:active::after {
+    content: "Added !";
+    height: 3.125em;
+  }
+  
+  .text {
+    max-width: 55px;
+  }
+  
+  .image {
+    background: rgb(241, 241, 241);
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-items: center;
+  }
+  
+  .rasmalai{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .gulabjamun{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .oreowaffle{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .laddoo{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .shahitukda{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .jalebi{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .rajbhog{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .shahikheer{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .Croissant{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .chocolatecake{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+
+  .coldfrappe{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .icedlatte{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .chocomint{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .americano{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .Cappuccino{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .kulhadchai{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .elaichichai{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .hotchocolate{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .oreoshake{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .espresso{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+
+
+  .paneertikka{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .shahipaneer{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .kadhaipaneer{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .mixveg{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .malaikofta{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .vegkofta{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .rajma{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .saag{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .palakpaneer{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }
+  .dalmakhani{
+    display: flex;
+    width: 9rem;
+    height: 10rem;
+  }

@@ -1,0 +1,244 @@
+/* POOL SIDE, LOBBY AREA, GARDEN SIDE css code starts */
+
+
+.cardcover{
+    background-color: #171717;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card1{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 5em;
+    margin-top:2em;
+}
+.card2{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 5em;
+    margin-top:2em;
+}
+.card3{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 5em;
+    margin-top:2em;
+}
+.card4{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 5em;
+    margin-top:2em;
+}
+.card5{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 5em;
+    margin-top:2em;
+}
+.card6{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 5em;
+    margin-top:2em;
+}
+.card7{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 5em;
+    margin-top:2em;
+}
+.card8{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 5em;
+    margin-top:2em;
+}
+.card9{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 5em;
+    margin-top:2em;
+}
+.card10{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 5em;
+    margin-top:2em;
+}
+.card11{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 5em;
+    margin-top:2em;
+}
+.card12{
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin-right: 3em;
+
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 5em;
+    margin-top:2em;
+}
+.card{
+    background-color: #171717;
+    margin-left: 5em;
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    width: 100em;
+}
+.card1,.card2,.card3,.card4,.card5,.card6,.card7,.card8,.card9,.card10,.card11,.card12:hover{
+    cursor: pointer;
+}
+.card1:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+    background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card2:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+    background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card3:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card4:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card5:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card6:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card7:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card8:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card9:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card10:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card11:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+.card12:hover{
+    box-shadow: 0px 0px 30px 1px rgba(13, 235, 121, 0.3) !important;
+    border-radius: 2em;
+     background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+p{
+    margin-left: 0.5em;
+    margin-top: 4em;
+}
+
+
+/* POOL SIDE , LOBBY AREA , GARDEN SIDE css ends  */
+
+
+
+
+.title{
+    margin-top: 1.25em;
+}
+.firstnav{
+    width:100%;
+}.me-2{
+    margin-top: 0;
+}
+.navbar-brand{
+    display: flex;
+}
+h1{
+    color: black;
+}
+button{
+    margin-top: 1em;
+    margin-left: 0.7em;
+  }
+  h4{
+    font-size: large;
+    color: #171717;
+    text-decoration: none;
+  }
+  h1{
+    color: black;
+    font-size: 2.5em;
+    margin-top: 0.2em;
+    
+}
+
+
+
+
